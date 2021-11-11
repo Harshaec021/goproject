@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/goproject/Test/lib"
+	"github.com/Harshaec021/goproject/Test/lib"
 )
 
 func main() {
