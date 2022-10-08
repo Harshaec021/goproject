@@ -1,4 +1,4 @@
-module github.com/Harshaec021/goproject/cmd
+module github.com/Harshaec021/goproject/cmd/main
 
 go 1.17
 

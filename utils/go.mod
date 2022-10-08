@@ -1,3 +1,3 @@
-module github.com/Harshaec021/goproject/utils/greeting
+module github.com/Harshaec021/goproject/utils
 
 go 1.17
